@@ -17,4 +17,4 @@ else:
 
 if st.button("calcular"):
     st.info(mgs)
-    st.balloons
+    st.balloons()
